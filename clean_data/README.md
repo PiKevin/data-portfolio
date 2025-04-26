@@ -12,4 +12,3 @@ This script loads a raw CSV, cleans the column names, removes fully empty rows, 
 - Save cleaned output
 
 **Tools:** Python, pandas
-
